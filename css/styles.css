@@ -188,6 +188,9 @@ section h1:first-child {
 ul {
   padding: 0;
 }
+ol li {
+  padding-bottom: 10px;
+}
 .m-b-70{
     margin-bottom: 40px!important;
 }
